@@ -1,2 +1,2 @@
 # awesome-ibuild
-Resources and examples for Metalsmith
+Resources and examples for ibuild
